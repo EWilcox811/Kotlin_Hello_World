@@ -1,0 +1,2 @@
+This is the first project in the Unity Kotlin course.  Already have made apps using Java and have a strong
+understanding of how to do that so this is the first step in learning how to do that in Kotlin.
